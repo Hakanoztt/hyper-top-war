@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3131649955554761013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2323307266486682511}
+  - component: {fileID: 1698367452041890858}
+  - component: {fileID: 3491740495046654176}
+  m_Layer: 0
+  m_Name: Level2Skin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2323307266486682511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3131649955554761013}
+  m_LocalRotation: {x: 0, y: 0.70710677, z: 0.70710677, w: 0}
+  m_LocalPosition: {x: -0, y: -0, z: 5.5}
+  m_LocalScale: {x: 1, y: 1, z: 0.96098}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 270, y: 270, z: 270}
+--- !u!33 &1698367452041890858
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3131649955554761013}
+  m_Mesh: {fileID: 5127673453389309514, guid: 2eb6e24f3285ca34fabb28e01ef211d4, type: 3}
+--- !u!23 &3491740495046654176
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3131649955554761013}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: de31dc2e1096ecf40bcc51533307d671, type: 2}
+  - {fileID: 2100000, guid: 92677ddaef87f7748886ce331de270ea, type: 2}
+  - {fileID: 2100000, guid: 178a864c803842d4fb2879315a47cc27, type: 2}
+  - {fileID: 2100000, guid: 01481812d2d17a14da7feaa69591e899, type: 2}
+  - {fileID: 2100000, guid: e1bf2c5d3c45b0b4e8815d285b01011f, type: 2}
+  - {fileID: 2100000, guid: 0a533d025cce5c44ab972a123496e247, type: 2}
+  - {fileID: 2100000, guid: 441f180762401d44cbdc96ce6dbd66d4, type: 2}
+  - {fileID: 2100000, guid: e3cae8595ba19e848989473a708c2400, type: 2}
+  - {fileID: 2100000, guid: 5104f6fae81229d41afc89831797ec60, type: 2}
+  - {fileID: 2100000, guid: 135bc9628819e7441bc406db7a7a21d7, type: 2}
+  - {fileID: 2100000, guid: ba6d45bd738e27c41bc38c89fb3ba694, type: 2}
+  - {fileID: 2100000, guid: defe2aba4783aa247b7db4900ac325a4, type: 2}
+  - {fileID: 2100000, guid: 21e5d3bb0b7db534db0c69c480e0bf6c, type: 2}
+  - {fileID: 2100000, guid: a23cf2ed55c82424cbdc5976762c64bf, type: 2}
+  - {fileID: 2100000, guid: 16982fde2c33f7e468de555e425263a6, type: 2}
+  - {fileID: 2100000, guid: 9eda63775e2eb0148a45da69c89261f6, type: 2}
+  - {fileID: 2100000, guid: e9243fd0bd2e48543bb9fd889682ff3a, type: 2}
+  - {fileID: 2100000, guid: 74bbe1641f0afea44ac0029c1fecf6d8, type: 2}
+  - {fileID: 2100000, guid: 47f88e022f731d64e867a4203714e6e5, type: 2}
+  - {fileID: 2100000, guid: c209e8a6b8349f24dbcf776218459cf4, type: 2}
+  - {fileID: 2100000, guid: 9f36ad308c59d1943b05563e28f1ea1d, type: 2}
+  - {fileID: 2100000, guid: 011e7a78ac44cee4395e01b265104c36, type: 2}
+  - {fileID: 2100000, guid: f608a0c57980df64d818ca5e236fc368, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
